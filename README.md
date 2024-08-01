@@ -1,5 +1,5 @@
 # HostCheck3r
-This Is a Powerful Tool To check Alives Targets Using Response.
+This Is a Powerful Tool To Check Alives Targets Using Response.
 
 # How To Install 
 `cd HostsCheck3r`
